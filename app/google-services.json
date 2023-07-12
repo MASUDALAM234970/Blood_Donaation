@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "281798121211",
+    "project_id": "firestore-ef1f2",
+    "storage_bucket": "firestore-ef1f2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:281798121211:android:3722a4c2f7e76c22b5825e",
+        "android_client_info": {
+          "package_name": "com.error41.blood_donaation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "281798121211-itnn31625iuvrcfuh3nv5oookes7jjmu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVyw-xVmyHyme_4QnYa2IqRPBespZMSP8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "281798121211-itnn31625iuvrcfuh3nv5oookes7jjmu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
